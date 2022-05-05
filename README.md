@@ -1,4 +1,4 @@
-# 1-_unofficial_kinopoisk_api
+# 1C_unofficial_kinopoisk_api
 Обработка по получению данных о фильмах и сериалах для конфигурации "Кино".
 Источник api - https://kinopoiskapiunofficial.tech/
 Инструкция:
